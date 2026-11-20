@@ -20,3 +20,5 @@ Aplicación de escritorio en C# (Windows Forms) con el formulario `frmPedidos` p
 - Montos formateados en `RD$ 0.00` en `lblSubtotal`, `lblDescuento`, `lblEmpaque`, `lblItbis` y `lblTotal`.
 
 ## 6. Capturas de pantalla
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff3264d8-93f0-4348-a7fe-5370e3e255ee" />
+
